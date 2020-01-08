@@ -1,0 +1,8 @@
+1. Assignment of several pairs of paths of the type "object to backup - backup folder"
+2. Directory backup support
+3. Ability to backup after a certain amount of saves
+4. Ability to limit backups at a specific time interval
+5. Auto backup every N time units
+6. Ability to archive each N number of backups and choose the number of archives
+
+?. Troubleshooting aka "features" solving :D

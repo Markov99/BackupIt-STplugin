@@ -1,0 +1,6 @@
+﻿ ̶B̶u̶g̶s̶ ̶t̶h̶a̶t̶ ̶I̶ ̶c̶a̶n̶'̶t̶ ̶s̶o̶l̶v̶e̶  Features:
+1. You can create "\.backups\YourFile.Extension\" directory by hand and it still will work.
+2. You can create a new file, switch tab to another file and save it: it will trigger context menu to appear.
+If you press "Yes" it will backing up this file instead of that was created. Then if you save that new file,
+context menu will not appear and file will not backing up.
+Probably it is an easier way to start backing up already existing file.

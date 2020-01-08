@@ -1,0 +1,5 @@
+{
+	"max_backups": 30,
+	"backups_folder_path": ".backups",
+	"config_file_name": ".max_backups.txt"
+}
